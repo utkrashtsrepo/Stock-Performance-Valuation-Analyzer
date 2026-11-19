@@ -1,0 +1,5 @@
+yfinance
+curl_cffi
+pandas
+numpy
+matplotlib
